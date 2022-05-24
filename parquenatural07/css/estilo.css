@@ -1,0 +1,32 @@
+body{
+    
+    border: 10px solid gray;
+}
+
+#texto{
+    border: 3px solid gray;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: burlywood;
+}
+
+span{
+    color: green;
+}
+
+h2{
+    color: greenyellow;
+}
+
+h3{
+    color: burlywood;
+}
+
+strong{
+    color: blue;
+}
+

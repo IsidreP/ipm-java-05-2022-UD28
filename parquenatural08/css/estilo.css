@@ -1,0 +1,49 @@
+body{
+    
+    border: 10px solid gray;
+    min-height: 450px;
+    width: 900px;
+}
+
+#texto{
+
+    display: block;
+    float: left;
+    text-align: left;
+    border: 3px solid gray;
+    margin-left: 21PX;
+    padding: 0px;
+}
+
+header{
+
+    display: block;
+    float: left;
+    margin-top: 100px;
+    padding: 0px;
+
+}
+
+h1{
+    display: block;
+    text-align: left;
+    margin-left: 124px;
+    color: burlywood;
+}
+
+span{
+    color: green;
+}
+
+h2{
+    color: greenyellow;
+}
+
+h3{
+    color: burlywood;
+}
+
+strong{
+    color: blue;
+}
+

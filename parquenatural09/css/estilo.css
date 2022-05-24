@@ -1,0 +1,82 @@
+body{
+    
+    border: 10px solid gray;
+    min-height: 550px;
+    width: 900px;
+}
+
+#texto{
+
+    display: block;
+    float: left;
+    text-align: left;
+    border: 3px solid gray;
+    margin-left: 21PX;
+    padding: 0px;
+}
+
+header{
+    width: 100px;
+    height: 170px;
+    display: block;
+    float: left;
+    margin-top: 100px;
+    padding: 0px;
+}
+
+.boton {
+    width: 53px;
+    height: 7px;
+    margin-left: 22px;
+    border: 1px solid #2e518b;
+    padding: 10px;
+    background-color: rgb(107, 192, 104);
+    color: #0f3b1e;
+    text-decoration: none; 
+    transition: 300ms;
+}
+
+#inicio {
+    background-color: rgb(168, 131, 60);
+}
+
+#especies {
+    background-color: rgb(168, 131, 60);
+}
+
+.boton:hover{
+    background-color: #2e518b;
+}
+
+a {
+    display: block;
+    margin-bottom: 3px;
+}
+
+.boton:current {
+    color: red;
+}
+
+h1{
+    display: block;
+    text-align: left;
+    margin-left: 124px;
+    color: burlywood;
+}
+
+span{
+    color: green;
+}
+
+h2{
+    color: greenyellow;
+}
+
+h3{
+    color: burlywood;
+}
+
+strong{
+    color: blue;
+}
+
